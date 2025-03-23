@@ -1,9 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working on improving my front-end skills.  <br>
-🤝 I’m looking to collaborate on web projects.  <br>
-📚 I’m currently learning Tailwind CSS and React.  <br>
-💡 Ask me about front-end development.  <br>
-🎯 Fun fact: I love coding and trading!  <br>
+🚀 I’m currently working on improving my front-end skills.  <br>🤝 I’m looking to collaborate on web projects.  <br>📚 I’m currently learning Tailwind CSS and React.  <br>💡 Ask me about front-end development.  <br>🎯 Fun fact: I love coding and trading!  <br>
 
 
 ## 🌐 Socials:
